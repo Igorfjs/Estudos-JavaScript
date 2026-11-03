@@ -12,5 +12,5 @@ if (pontuacaoUsuario >= 1000) {
 */
 
 const corUsuario = null
-const corPadrao = corUsuario || 'Preta'; //verica e retorna o primeiro valor verdadeiro encontrado
+const corPadrao = corUsuario || 'Preta'; //verifica e retorna o primeiro valor verdadeiro encontrado
 console.log(corPadrao)
